@@ -1,3 +1,8 @@
 # Validador-de-Senhas
 
-O validador de senhas serve para verificar se uma senha atende ou não aos requisitos de segurança. Se a senha for válida, o programa deve confirmar. Caso contrário, informará os requisitos não atendidos.
+VALIDADOR DE SENHAS
+ Início
+  Se número de caracteres = (IGUAL) ou > (MAIOR) que  e 
+Se contém letras maiúsculas,minúsculas,números e caracteres especiais; apenas confirme e não diga nada
+Se não; D	iga: a senha não atende aos requisitos de segurança; e informe quais requisitos não foram cumpridos
+Fim
